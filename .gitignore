@@ -1,0 +1,5 @@
+# sprites belong to their original authors, get them from the repo linked in the README
+assets/
+sprites/
+__pycache__/
+*.pyc
